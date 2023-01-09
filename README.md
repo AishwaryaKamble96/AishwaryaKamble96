@@ -1,19 +1,31 @@
 Profile Repository of AishwaryaKamble96
 
-## About Me
-```bash
-- Date of Place: Mumbai India
-- Language: English,German,Hindi,Marathi (Mother Tounge)
-- Education : BE Computer Engineering 
-- Address : Berlin,Germany
-```
-## Aim
-```bash
-To learn new skills and tehnologies, update knowledege and explorer new opportunities
-```
-Now Enrolled in Spiced Academy for Full Stack Developer
+# Hi Aishwarya Here :blush:
 
-# Day 1: At Spiced Academy
+## About Me :smiley:
+```bash 
+- Born on 4th Sept
+- Indian :heart:
+- Speak English,German,Hindi,Marathi (Mother Tounge)
+- Completed Bacherlor's in Computer Engineering 
+- Living in Berlin Germany
+```
+![Berlin](https://user-images.githubusercontent.com/122265980/211403944-245ff041-7072-40f5-8d4e-434e8e068e11.jpg)
+
+
+
+##  My Objective
+```bash
+To learn new skills and tehnologies,update my knowledege. 
+To Explorer new opportunities,improve performance,work on mistakes and grow.:dizzy:
+```
+## Career Path
+- Joined Software Company as Software Engineer
+- Got trained for RPA tool - [Automation Anywhere](https://www.automationanywhere.com/company/blog/company-culture/what-an-rpa-developer-does)
+- Worked as RPA Developer for 2.5 +years 
+- Now Enrolled in [Spiced Academy for Full Stack Developer](https://www.spiced-academy.com/en/program/full-stack-web-development)
+
+<!--# Day 1: At Spiced Academy
 
 ## Fisrt Half
 - Introduction of Spiced Academy 
@@ -49,4 +61,4 @@ Now Enrolled in Spiced Academy for Full Stack Developer
   fuction CourseCompletion(AssesmentScore,Score){
   retrun AssesmentScore + Score;
   }
-  ```
+  ```-->
