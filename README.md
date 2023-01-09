@@ -11,7 +11,7 @@ Profile Repository of AishwaryaKamble96
 ```bash
 To learn new skills and tehnologies, update knowledege and explorer new opportunities
 ```
-
+Now Enrolled in Spiced Academy for Full Stack Developer
 
 # Day 1: At Spiced Academy
 
