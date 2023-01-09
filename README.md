@@ -1,5 +1,18 @@
 Profile Repository of AishwaryaKamble96
 
+## About Me
+```bash
+- Date of Place: Mumbai India
+- Language: English,German,Hindi,Marathi (Mother Tounge)
+- Education : BE Computer Engineering 
+- Address : Berlin,Germany
+```
+## Aim
+```bash
+To learn new skills and tehnologies, update knowledege and explorer new opportunities
+```
+
+
 # Day 1: At Spiced Academy
 
 ## Fisrt Half
@@ -9,8 +22,7 @@ Profile Repository of AishwaryaKamble96
 - Introduction to **Career management staff**
 - Visit to classroom 
 
-  ![class room](C:/Users/chetan/Desktop/Spiced Academy/Academy.jpg)
-  ![class room](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.spiced-academy.com%2Fimg%2Fstaff%2Fspiced-team-about.jpg&imgrefurl=https%3A%2F%2Fwww.spiced-academy.com%2Fen%2Fabout&tbnid=1d3VDp1JyIRUHM&vet=12ahUKEwi7g_mr0rr8AhXGwgIHHct_CnoQMygBegUIARCuAQ..i&docid=0G-cOxzAfQIslM&w=750&h=780&q=spiced%20academy&ved=2ahUKEwi7g_mr0rr8AhXGwgIHHct_CnoQMygBegUIARCuAQ)
+![Academy](https://user-images.githubusercontent.com/122265980/211329576-02d72a93-c10f-433f-aee6-ee7b1323f233.jpg)
   
 - Introduction to **Full Stack Teachers** followed by below topics:
   ```bash
@@ -27,10 +39,10 @@ Profile Repository of AishwaryaKamble96
 
   ```
   
-  ## Second Half
-    -How to create git file?
-    - Importance of Control version
-    - How to create repository
+ ## Second Half
+   -How to create git file?
+   - Importance of Control version
+   - How to create repository
   
   - Students score calculation method as followed:
   ```js
