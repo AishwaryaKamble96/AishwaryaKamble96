@@ -25,7 +25,8 @@ To Explorer new opportunities,improve performance,work on mistakes and grow.:diz
 - Worked as RPA Developer for 2.5 +years 
 - Now Enrolled in [Spiced Academy for Full Stack Developer](https://www.spiced-academy.com/en/program/full-stack-web-development)
 
-<!--# Day 1: At Spiced Academy
+<details><summary>Click here to know more about a 1st day at Spiced</summary>
+# Day 1: At Spiced Academy
 
 ## Fisrt Half
 - Introduction of Spiced Academy 
@@ -61,4 +62,5 @@ To Explorer new opportunities,improve performance,work on mistakes and grow.:diz
   fuction CourseCompletion(AssesmentScore,Score){
   retrun AssesmentScore + Score;
   }
-  ```-->
+  
+</details>
